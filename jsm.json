@@ -238,6 +238,18 @@
 			}
 		},
 		{
+    "key": "量子",
+    "name": "🔞量子频道",
+    "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+    "type": 0,
+    "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+    "searchable": 1,
+    "changeable": 1,
+    "categories": [
+        "伦理片"
+    ]
+},
+		{
 			"key": "唐人街",
 			"name": "💞┃唐人┃💠",
 			"type": 3,
