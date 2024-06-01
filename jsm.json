@@ -237,20 +237,7 @@
 				"直接播放": "1"
 			}
 		},
-		{
-			"key": "Supjav",
-			"name": "🔞Supjav┃科学",
-			"type": 3,
-			"api": "csp_Supjav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./lib/xc.jar",
-			"style": {
-				"type": "rect",
-				"ratio": 1.485
-			}
-		},
+	{
 		"key": "量子",
 		"name": "🔞量子频道",
 		"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
