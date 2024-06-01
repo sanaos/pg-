@@ -309,17 +309,6 @@
 			"changeable": 0,
 			"categories": ["無碼", "有碼", "女優", "最受歡迎", "中文字幕", "類别"]
 		},
-		{           
-			"key": "csp_xBPQ_女优",
-			           "name": "女优",
-			           "type": 3,
-			           "api": "csp_xBPQ",
-			           "searchable": 1,
-			           "quickSearch": 1,
-			           "filterable": 0,
-			           "ext": "https://qu.ax/NQxf.json",
-			           "jar": "https://qu.ax/jKoN.js",
-		},
 		{
 			"key": "各种合集",
 			"name": "🔞各种合集",
