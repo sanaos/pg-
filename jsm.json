@@ -248,7 +248,7 @@
 			"jar": "./lib/xc.jar",
 			"style": {
 				"type": "rect",
-				"ratio": 1.6
+				"ratio": 1.485
 			}
 		},
 		"key": "量子",
