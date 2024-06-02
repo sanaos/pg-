@@ -194,6 +194,20 @@
 			}
 		},
 		{
+            "key": "Supjav",
+            "name": "🔞Supjav┃科学",
+            "type": 3,
+            "api": "csp_Supjav",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./lib/xc.jar",
+            
+            "style": {
+                "type": "rect",
+                "ratio": 1.485}
+                },
+		{
 			"key": "Xojav",
 			"name": "XOJav",
 			"type": 3,
