@@ -181,6 +181,22 @@
 			"ext": "./lib/新香蕉实时直播.json"
 		},
 		{
+            "key": "Youtube",
+            "name": "⭕️Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "type": "首页#新闻#大野猫 Big Wild Cat#真的很博通#残月一家之言#电影#电视剧#直播#游戏短剧#音乐#体育#课程",
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+		{
 			"key": "top888",
 			"name": "🔞top888",
 			"type": 3,
