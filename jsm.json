@@ -125,22 +125,25 @@
             }
         },
         {
-            "key": "Youtube",
-            "name": "⭕️Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "type": "首页#新闻#听老蚕说评书【听书的蚕】#大野猫 Big Wild Cat#真的很博通#残月一家之言#电影#电视剧#直播#游戏短剧#音乐#体育#课程#三级片",
-                
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"proxy":"proxy",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":""
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
         {
 			"key": "Xojav",
 			"name": "XOJav",
